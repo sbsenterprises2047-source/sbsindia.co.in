@@ -6,6 +6,12 @@ const SUPABASE_ANON_KEY = "sb_publishable_hQ-dj3LrSkygYaaXhiZBEA_T02NUG_f";
 const form = document.getElementById("enquiryForm");
 const status = document.getElementById("formStatus");
 document.getElementById("year").textContent = new Date().getFullYear();
+document.getElementById("callEnquiryButton")?.addEventListener("click", (event) => {
+  event.preventDefault();
+  if (window.confirm("SBS Enterprises को अभी कॉल करना चाहते हैं?\n\nकॉल करें: +91 99733 37998")) {
+    window.location.href = "tel:+919973337998";
+  }
+});
 document.getElementById("menuToggle").addEventListener("click", () => {
   document.getElementById("nav").classList.toggle("open");
 });
