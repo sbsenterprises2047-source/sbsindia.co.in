@@ -5,23 +5,20 @@
  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1599ed"/><stop offset=".48" stop-color="#0756b5"/><stop offset="1" stop-color="#06245f"/></linearGradient>
  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffdf37"/><stop offset=".55" stop-color="#ffad08"/><stop offset="1" stop-color="#f07800"/></linearGradient>
 </defs>
-<!-- Radiant rising sun: broad semicircle with alternating long and short rays -->
+<!-- Clean professional sunrise: symmetrical half-sun and evenly spaced tapered rays -->
 <g fill="url(#gold)">
- <path d="M270 113L226 95L263 125Z"/>
- <path d="M276 94L224 60L266 108Z"/>
- <path d="M290 76L252 28L281 91Z"/>
- <path d="M310 61L286 8L301 79Z"/>
- <path d="M333 48L327 0L344 67Z"/>
- <path d="M355 42L360 0L370 65Z"/>
- <path d="M380 46L397 4L392 72Z"/>
- <path d="M403 57L431 16L414 83Z"/>
- <path d="M423 73L464 39L432 98Z"/>
- <path d="M440 92L491 67L448 116Z"/>
- <path d="M450 113L504 105L455 132Z"/>
- <path d="M264 133L213 125L265 117Z"/>
+ <path d="M270 111L235 89L263 122Z"/>
+ <path d="M283 88L260 48L278 105Z"/>
+ <path d="M306 68L294 23L300 83Z"/>
+ <path d="M333 54L333 12L345 69Z"/>
+ <path d="M360 48L360 0L372 69Z"/>
+ <path d="M387 54L405 12L391 73Z"/>
+ <path d="M414 68L438 25L405 88Z"/>
+ <path d="M437 89L475 57L430 111Z"/>
+ <path d="M450 111L490 96L454 127Z"/>
  <path d="M270 119A90 90 0 0 1 450 119Z"/>
 </g>
-<path d="M267 119H453" fill="none" stroke="#ffad08" stroke-width="5" stroke-linecap="round"/>
+<path d="M270 119H450" fill="none" stroke="#ffad08" stroke-width="4" stroke-linecap="round"/>
 <text x="360" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="180" font-weight="900" font-style="italic" letter-spacing="-9" fill="url(#blue)" stroke="#fff" stroke-width="3" paint-order="stroke">SBS</text>
 <text x="360" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="900" font-style="italic" letter-spacing="2" fill="url(#blue)">ENTERPRISES</text>
 <path d="M65 300H175 M545 300H655" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
