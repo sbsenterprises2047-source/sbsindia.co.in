@@ -58,7 +58,7 @@ const translations = {
 "☀️ स्वच्छ ऊर्जा • बेहतर बचत • आत्मनिर्भर भारत":"☀️ Clean energy • Better savings • Self-reliant India",
 "होम":"Home","हमारे बारे में":"About Us","सेवाएँ":"Services","PM सूर्य घर योजना":"PM Surya Ghar Scheme","समाज सेवा":"Social Responsibility","संपर्क":"Contact","सोलर लगवाएँ":"Go Solar",
 "बिहार में सोलर समाधान के लिए आपका साथी":"Your partner for solar solutions in Bihar",
-"Apni chhat par solar lagaiye,":"Install solar on your rooftop,","bijli bill kam karne ki":"and take a step towards"," ओर कदम बढ़ाइए।":"lower electricity bills.",
+"Apni chhat par solar lagaiye,":"Install solar on your rooftop,","bijli bill kam karne ki":"and take a step towards","ओर कदम बढ़ाइए।":"lower electricity bills.",
 "सोलर ऊर्जा से आत्मनिर्भर भारत, समाज सेवा से खुशहाल भारत! घर, दुकान और संस्थान के लिए अपनी जरूरत के अनुसार रूफटॉप सोलर की जानकारी पाएँ।":"Solar energy for a self-reliant India, social service for a happier India. Explore rooftop solar options for your home, shop or institution.",
 "☀️ सोलर लगवाने की जानकारी":"☀️ Explore Solar Options","सरकारी पोर्टल देखें ↗":"Visit Official Portal ↗","✓ सही जानकारी":"✓ Clear information","✓ जरूरत के अनुसार मार्गदर्शन":"✓ Guidance for your needs","✓ स्थानीय संपर्क":"✓ Local support",
 "महत्वपूर्ण सूचना":"Important Information","SBS Enterprises, पीएम सूर्य घर: मुफ्त बिजली योजना के अंतर्गत रूफटॉप सोलर इंस्टॉलेशन सेवाएँ प्रदान करने वाला वेंडर है। योजना की पात्रता, सब्सिडी तथा स्वीकृति लागू सरकारी दिशानिर्देशों और संबंधित DISCOM/पोर्टल की मंज़ूरी के अधीन हैं।":"SBS Enterprises provides rooftop solar installation services as a vendor under the PM Surya Ghar: Muft Bijli Yojana. Eligibility, subsidy and approval are subject to applicable government guidelines and approval by the relevant DISCOM/portal.",
