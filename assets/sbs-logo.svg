@@ -5,29 +5,29 @@
  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1599ed"/><stop offset=".48" stop-color="#0756b5"/><stop offset="1" stop-color="#06245f"/></linearGradient>
  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffdf37"/><stop offset=".55" stop-color="#ffad08"/><stop offset="1" stop-color="#f07800"/></linearGradient>
 </defs>
-<!-- Radiant semicircle sunrise inspired by the supplied reference -->
+<!-- Reference-inspired golden rising sun: broad half-disc and crisp tapered rays -->
 <g fill="url(#gold)">
- <path d="M268 112L226 95L262 123Z"/>
- <path d="M274 99L222 66L266 112Z"/>
- <path d="M285 84L252 25L278 101Z"/>
- <path d="M300 70L286 7L310 83Z"/>
- <path d="M322 58L327 0L339 72Z"/>
- <path d="M345 48L359 0L366 68Z"/>
- <path d="M368 48L397 4L390 72Z"/>
- <path d="M390 57L431 17L410 82Z"/>
- <path d="M411 70L464 39L425 97Z"/>
- <path d="M428 85L491 67L439 111Z"/>
- <path d="M441 103L507 105L448 125Z"/>
- <path d="M286 107L265 75L296 112Z"/>
- <path d="M309 91L300 49L320 105Z"/>
- <path d="M336 81L337 35L349 102Z"/>
- <path d="M364 79L378 33L378 103Z"/>
- <path d="M391 88L417 48L402 108Z"/>
- <path d="M415 105L451 76L425 118Z"/>
- <path d="M270 120A90 90 0 0 1 450 120Z"/>
+ <path d="M270 116L218 94L263 126Z"/>
+ <path d="M274 101L225 61L266 113Z"/>
+ <path d="M285 86L250 25L279 103Z"/>
+ <path d="M302 72L286 5L311 86Z"/>
+ <path d="M324 60L327 0L340 75Z"/>
+ <path d="M347 53L359 0L370 75Z"/>
+ <path d="M371 57L397 5L391 81Z"/>
+ <path d="M393 69L431 17L408 91Z"/>
+ <path d="M413 84L464 39L425 105Z"/>
+ <path d="M429 100L491 67L440 118Z"/>
+ <path d="M442 115L507 105L450 130Z"/>
+ <path d="M282 109L264 76L295 116Z"/>
+ <path d="M307 94L300 49L321 109Z"/>
+ <path d="M335 83L337 35L350 108Z"/>
+ <path d="M365 83L378 33L379 108Z"/>
+ <path d="M393 96L417 48L403 115Z"/>
+ <path d="M416 112L451 76L427 124Z"/>
+ <path d="M270 124A90 90 0 0 1 450 124Z"/>
 </g>
-<path d="M270 120H450" fill="none" stroke="#ffad08" stroke-width="4" stroke-linecap="round"/>
-<path d="M278 119A82 82 0 0 1 442 119" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<path d="M270 124A90 90 0 0 1 450 124" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+<path d="M270 124H450" fill="none" stroke="#ffad08" stroke-width="4" stroke-linecap="round"/>
 <text x="360" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="180" font-weight="900" font-style="italic" letter-spacing="-9" fill="url(#blue)" stroke="#fff" stroke-width="3" paint-order="stroke">SBS</text>
 <text x="360" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="900" font-style="italic" letter-spacing="2" fill="url(#blue)">ENTERPRISES</text>
 <path d="M65 300H175 M545 300H655" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
