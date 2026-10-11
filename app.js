@@ -1,7 +1,7 @@
 // SBS Enterprises website form
 // To save enquiries in Supabase, set SUPABASE_URL and SUPABASE_ANON_KEY below
 // and run the SQL in supabase-schema.sql in your Supabase SQL Editor.
-const SUPABASE_URL = "https://lvpaxtghtzhowyqtnsjx.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://lvpaxtghtzhowyqtnsjx.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_hQ-dj3LrSkygYaaXhiZBEA_T02NUG_f";
 const form = document.getElementById("enquiryForm");
 const status = document.getElementById("formStatus");
