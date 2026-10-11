@@ -5,13 +5,20 @@
  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1599ed"/><stop offset=".48" stop-color="#0756b5"/><stop offset="1" stop-color="#06245f"/></linearGradient>
  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffdf37"/><stop offset=".55" stop-color="#ffad08"/><stop offset="1" stop-color="#f07800"/></linearGradient>
 </defs>
-<!-- Clean rising sun: smooth half-disc, balanced rays, and a clear horizon -->
+<!-- Radiant rising sun: broad semicircle with alternating long and short rays -->
 <g fill="url(#gold)">
- <path d="M286 78L269 35L303 70Z"/>
- <path d="M326 64L326 17L347 64Z"/>
- <path d="M375 64L397 22L394 76Z"/>
- <path d="M414 82L451 54L430 98Z"/>
- <path d="M264 91L235 77L258 112Z"/>
+ <path d="M270 113L226 95L263 125Z"/>
+ <path d="M276 94L224 60L266 108Z"/>
+ <path d="M290 76L252 28L281 91Z"/>
+ <path d="M310 61L286 8L301 79Z"/>
+ <path d="M333 48L327 0L344 67Z"/>
+ <path d="M355 42L360 0L370 65Z"/>
+ <path d="M380 46L397 4L392 72Z"/>
+ <path d="M403 57L431 16L414 83Z"/>
+ <path d="M423 73L464 39L432 98Z"/>
+ <path d="M440 92L491 67L448 116Z"/>
+ <path d="M450 113L504 105L455 132Z"/>
+ <path d="M264 133L213 125L265 117Z"/>
  <path d="M270 119A90 90 0 0 1 450 119Z"/>
 </g>
 <path d="M267 119H453" fill="none" stroke="#ffad08" stroke-width="5" stroke-linecap="round"/>
