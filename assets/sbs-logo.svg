@@ -5,11 +5,16 @@
  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1599ed"/><stop offset=".48" stop-color="#0756b5"/><stop offset="1" stop-color="#06245f"/></linearGradient>
  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffdf37"/><stop offset=".55" stop-color="#ffad08"/><stop offset="1" stop-color="#f07800"/></linearGradient>
 </defs>
-<!-- Sun and rays stay above the letters, never covering SBS -->
+<!-- Clean rising sun: smooth half-disc, balanced rays, and a clear horizon -->
 <g fill="url(#gold)">
- <path d="M286 83L266 35L302 69Z"/><path d="M333 65L337 8L357 65Z"/><path d="M383 65L411 19L403 78Z"/><path d="M420 80L463 48L438 97Z"/><path d="M266 96L230 70L258 115Z"/>
- <path d="M270 116A90 90 0 0 1 450 116Z"/>
+ <path d="M286 78L269 35L303 70Z"/>
+ <path d="M326 64L326 17L347 64Z"/>
+ <path d="M375 64L397 22L394 76Z"/>
+ <path d="M414 82L451 54L430 98Z"/>
+ <path d="M264 91L235 77L258 112Z"/>
+ <path d="M270 119A90 90 0 0 1 450 119Z"/>
 </g>
+<path d="M267 119H453" fill="none" stroke="#ffad08" stroke-width="5" stroke-linecap="round"/>
 <text x="360" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="180" font-weight="900" font-style="italic" letter-spacing="-9" fill="url(#blue)" stroke="#fff" stroke-width="3" paint-order="stroke">SBS</text>
 <text x="360" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="900" font-style="italic" letter-spacing="2" fill="url(#blue)">ENTERPRISES</text>
 <path d="M65 300H175 M545 300H655" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
